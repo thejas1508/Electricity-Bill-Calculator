@@ -1,0 +1,24 @@
+Please Enter Your Name :
+THEJAS
+Please Enter Your Consumer Number :
+10001
+Please Enter Your Previous Month Reading :
+54870
+Please Enter Your Current Month Reading :
+59691
+Is this domestic Connection (yes/no) :
+yes
+
+EB Bill
+Consumer Number : 10001
+Consumer Name : THEJAS
+Consumer Units Consumed:4821
+Your are an Domestic Consumer
+
+Bill Details ...
+Domestic Connection Details
+First 100 units - Rs. 1 per unit
+101-200 units - Rs. 2.50 per unit
+201 -500 units - Rs. 4 per unit
+> 501 units - Rs. 6 per unit
+Amount Payable is ₹: 27477.0
